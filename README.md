@@ -75,7 +75,4 @@ Your client and server applications should now be running. You can access the cl
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-### Instructions
-1. Copy the above content into a new file called `README.md` in the root directory of your project.
-2. Modify any placeholder text (like project name, description, GitHub URL, and port numbers) to accurately reflect your project specifics.
-3. Save the file, and you should be all set!
+
